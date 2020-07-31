@@ -7,6 +7,11 @@ Jonas provided the CSS and HTML as starter code so that the project focus is on 
 I took that course to understand the basic in JavaScript and start my on Javascript Apps and was helpful 
 for my work experence coding.
 
+# JavaScript 
+ECMAScript Data Types and Values
+Algorithms within this specification manipulate values each of which has an associated type. The possible value types are exactly those defined in this clause. Types are further subclassified into ECMAScript language types and specification types.
+
+
 # The instalation to run the App
 
 npm is installed with Node.js
